@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeticaVictorHW5", "PeticaVictorHW5\PeticaVictorHW5.csproj", "{FD0B80FA-478A-49BF-B5FC-8C5EE65926D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{5DCBC1F3-D782-4887-8980-769E12747C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj", "{EAD4FF6D-AB12-4C47-856E-E4E6B149F53E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD0B80FA-478A-49BF-B5FC-8C5EE65926D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0B80FA-478A-49BF-B5FC-8C5EE65926D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0B80FA-478A-49BF-B5FC-8C5EE65926D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0B80FA-478A-49BF-B5FC-8C5EE65926D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DCBC1F3-D782-4887-8980-769E12747C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCBC1F3-D782-4887-8980-769E12747C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCBC1F3-D782-4887-8980-769E12747C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCBC1F3-D782-4887-8980-769E12747C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD4FF6D-AB12-4C47-856E-E4E6B149F53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD4FF6D-AB12-4C47-856E-E4E6B149F53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD4FF6D-AB12-4C47-856E-E4E6B149F53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD4FF6D-AB12-4C47-856E-E4E6B149F53E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22189E6B-B6E7-4DFD-9EC2-CF23A8604D2F}
+	EndGlobalSection
+EndGlobal
